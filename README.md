@@ -5,7 +5,7 @@
 
 ## Description
 
-- Esta es una pequeña tarea con la que iniciamos el curso
+- Esta es una pequeña tarea con la que iniciamos el curso donde calculamos el digito verificador de un rut chileno
 
 ## Developers
 
